@@ -3,6 +3,7 @@
   padding: 0;
   box-sizing: border-box;
   font-family: "Georgia", sans-serif;
+  background-color: #ffffff;
 }
 
 body {
@@ -10,7 +11,7 @@ body {
 }
 
 .title {
-  color: #ffffff;
+  color: black;
   font-size: 3rem;
   font-weight: 700;
   text-align: center;
@@ -26,7 +27,7 @@ body {
 }
 
 .app * {
-  color: #ffffff;
+  color: black;
 }
 
 .gif-card {
