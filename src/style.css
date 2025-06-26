@@ -164,3 +164,19 @@ ul {
 .book-card strong {
   color: #ddd;
 }
+
+.book-card h3 {
+  margin: 0;
+  font-size: 1.1rem;
+  color: #ffffff;
+}
+
+.book-card p {
+  margin: 0.3rem 0;
+  font-size: 0.9rem;
+  color: #ccc;
+}
+
+.book-card strong {
+  color: #ddd;
+}
