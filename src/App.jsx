@@ -16,7 +16,7 @@ const App = () => {
   return (
     <div className="app">
       {/* Main title of the app */}
-      <h1 className="title">React Forms! 📝</h1>
+      <h1 className="title">Book-Review App! 📝</h1>
       
       {/* AddBook component to hadle adding new books */}
       <AddBook onAddBook={handleAddBook} />
